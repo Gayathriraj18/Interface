@@ -29,7 +29,7 @@ After performing the functions display the remaining balance of the use.
 using System;
 using System.Reflection.Metadata.Ecma335;
 
-namespace abhi
+namespace prg
 {
 
     public interface bank
